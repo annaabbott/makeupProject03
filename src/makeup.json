@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1036,
+        "brand": "rejuva minerals",
+        "name": "Multi Purpose Powder - Blush & Eye",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Rejuva-Minerals-Multi-Purpose-Powder-Blush-_-Eye-1.jpg",
+        "product_link": "https://www.purpicks.com/product/rejuva-minerals-multi-purpose-powder-blush-eye/",
+        "website_link": "https://purpicks.com/",
+        "description": "Our Multi Purpose Pressed Powders may be used for blush or eye shadow. Blended with antioxidants from Certified Organic Fruits, Berries &amp; Botanicals*. Made without any gluten containing ingredients. Mica free Pink Parfait and Papaya will offer a natural, ultra sheer semi-matte finish. The petals from beautiful crushed red roses that are found in Pink Parfait, are valued for their natural color and delightful aroma that they provide! Acai Berry will offer a natural, ultra sheer satin finish (mica added). VEGAN. Image one is Pink Parfait. Image two is Papaya, and image three is Acai Berry. Model in image four is wearing Papaya. Model in image five is wearing Acai Berry. To see a demonstration of Papaya, click on the video and fast forward to 3:44. Enjoy! This product is EWG VERIFIED&#x2122; and rated 'CLEAN'in the Think Dirty app! BPA and Phthalate free packaging. Plastic parts of compacts are recyclable. *Tiny flecks of fruit and botanical particles may be visible in powder. Pink Parfait and Papaya are Titanium Dioxide and Mica free. Net Weight: 2.8 gm.",
+        "rating": null,
+        "category": "",
+        "product_type": "eyeshadow",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:31.988Z",
+        "updated_at": "2018-09-02T22:52:06.678Z",
+        "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/1036.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/036/original/open-uri20180630-4-ign3hh?1530390384",
+        "product_colors": [
+            {
+                "hex_value": "#E1BFC0",
+                "colour_name": "Pink Parfait"
+            },
+            {
+                "hex_value": "#D7A7A3",
+                "colour_name": "Papaya"
+            },
+            {
+                "hex_value": "#E6C3CB",
+                "colour_name": "Acai Berry"
+            }
+        ]
+    },
+    {
+        "id": 1035,
+        "brand": "rejuva minerals",
+        "name": "Multi Purpose Powder - Blush & Eye",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Rejuva-Minerals-Multi-Purpose-Powder-Blush-_-Eye-1.jpg",
+        "product_link": "https://www.purpicks.com/product/rejuva-minerals-multi-purpose-powder-blush-eye/",
+        "website_link": "https://purpicks.com/",
+        "description": "Our Multi Purpose Pressed Powders may be used for blush or eye shadow. Blended with antioxidants from Certified Organic Fruits, Berries &amp; Botanicals*. Made without any gluten containing ingredients. Mica free Pink Parfait and Papaya will offer a natural, ultra sheer semi-matte finish. The petals from beautiful crushed red roses that are found in Pink Parfait, are valued for their natural color and delightful aroma that they provide! Acai Berry will offer a natural, ultra sheer satin finish (mica added). VEGAN. Image one is Pink Parfait. Image two is Papaya, and image three is Acai Berry. Model in image four is wearing Papaya. Model in image five is wearing Acai Berry. To see a demonstration of Papaya, click on the video and fast forward to 3:44. Enjoy! This product is EWG VERIFIED&#x2122; and rated 'CLEAN'in the Think Dirty app! BPA and Phthalate free packaging. Plastic parts of compacts are recyclable. *Tiny flecks of fruit and botanical particles may be visible in powder. Pink Parfait and Papaya are Titanium Dioxide and Mica free. Net Weight: 2.8 gm.",
+        "rating": null,
+        "category": "powder",
+        "product_type": "blush",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:31.909Z",
+        "updated_at": "2018-09-02T22:52:06.855Z",
+        "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/1035.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/035/original/open-uri20180630-4-n6wb0y?1530390383",
+        "product_colors": [
+            {
+                "hex_value": "#E1BFC0",
+                "colour_name": "Pink Parfait"
+            },
+            {
+                "hex_value": "#D7A7A3",
+                "colour_name": "Papaya"
+            },
+            {
+                "hex_value": "#E6C3CB",
+                "colour_name": "Acai Berry"
+            }
+        ]
+    },
+    {
+        "id": 1033,
+        "brand": "rejuva minerals",
+        "name": "Pressed Powder Foundation",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Rejuva-Minerals-Multi-Purpose-Powder-Eye-Shadow-Face-1.jpg",
+        "product_link": "https://www.purpicks.com/product/rejuva-minerals-multi-purpose-powder-eye-shadow-face/",
+        "website_link": "https://purpicks.com/",
+        "description": "Coconut Cream - Warm Undertones (yellow) Light Shade. May also be used as a highlighting shade! About our pressed foundations:<ul><li>Provides a silky smooth, natural 'semi-matte' finish</li><li>All skin types</li><li>Will not dry out skin (apply light moisturizer underneath for best results)</li><li>Resists caking and settling in lines and pores</li><li>Layers to provide a light-medium (buildable) coverage</li><li>Eco-friendly, biodegradable compact</li><li>Colored with minerals and enhanced with organic fruits and botanicals</li><li>Infused with conditioning organic jojoba oil</li><li>Formulated without common skin irritants.</li></ul>",
+        "rating": null,
+        "category": "powder",
+        "product_type": "foundation",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:31.736Z",
+        "updated_at": "2018-09-02T22:52:06.652Z",
+        "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/1033.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/033/original/open-uri20180630-4-1mibdm?1530390382",
+        "product_colors": [
+            {
+                "hex_value": "#FBE9CD",
+                "colour_name": "Coconut Cream"
+            },
+            {
+                "hex_value": "#E6B588",
+                "colour_name": "Dune"
+            },
+            {
+                "hex_value": "#EBC8A0",
+                "colour_name": "Glow"
+            },
+            {
+                "hex_value": "#F8E3D5",
+                "colour_name": "Nude"
+            },
+            {
+                "hex_value": "#D8B39B",
+                "colour_name": "Radiance"
+            },
+            {
+                "hex_value": "#E7CDBA",
+                "colour_name": "Sand"
+            },
+            {
+                "hex_value": "#F1C4A8",
+                "colour_name": "Sea Shell"
+            },
+            {
+                "hex_value": "#D1B594",
+                "colour_name": "Taffy"
+            },
+            {
+                "hex_value": "#9C7248",
+                "colour_name": "Bahama Mama"
+            },
+            {
+                "hex_value": "#DDA983",
+                "colour_name": "St Tropez"
+            }
+        ]
+    },
+    {
+        "id": 1010,
+        "brand": "coastal classic creation",
+        "name": "Conch Lipstick",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/coastal-classic-creations-conch-lipstick.png",
+        "product_link": "https://www.purpicks.com/product/coastal-classic-creations-conch-lipstick/",
+        "website_link": "https://purpicks.com/",
+        "description": "Coastal Classic Creations Conch Lipstick is a flattering, stylish, rich winterberry color. This lipstick is paraben-free and vegan and contains sunflower oil which is rich in Vitamin E and which may protect against damage from the sun. To boost the product's effectiveness, we add sesame seed oil which contains Vitamins E, D, and B complex to provide moisture and neutralize free radicals. Companions well with Boysenberry Lip Crayon.",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:30.184Z",
+        "updated_at": "2018-09-02T22:52:06.571Z",
+        "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/1010.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/010/original/open-uri20180630-4-dywvay?1530390364",
+        "product_colors": [
+            {
+                "hex_value": "#822A42",
+                "colour_name": "Raspberry"
+            },
+            {
+                "hex_value": "#8D394F",
+                "colour_name": "Conch"
+            },
+            {
+                "hex_value": "#9F4353",
+                "colour_name": "Crushed Rose"
+            },
+            {
+                "hex_value": "#A15F55",
+                "colour_name": "Tender Toffee"
+            },
+            {
+                "hex_value": "#F09178",
+                "colour_name": "Deja Vu"
+            },
+            {
+                "hex_value": "#B83037",
+                "colour_name": "Sun Dial"
+            },
+            {
+                "hex_value": "#AD4C46",
+                "colour_name": "Terra Gold"
+            },
+            {
+                "hex_value": "#A96B67",
+                "colour_name": "Cowry"
+            },
+            {
+                "hex_value": "#B73849",
+                "colour_name": "Tender"
+            },
+            {
+                "hex_value": "#D06C89",
+                "colour_name": "Nautilus"
+            },
+            {
+                "hex_value": "#C49082",
+                "colour_name": "Extremely Nude"
+            },
+            {
+                "hex_value": "#B78592",
+                "colour_name": "Ginger Snap"
+            },
+            {
+                "hex_value": "#DD786A",
+                "colour_name": "Coral Shell"
+            },
+            {
+                "hex_value": "#E5A4BF",
+                "colour_name": "Twilight"
+            },
+            {
+                "hex_value": "#954D44",
+                "colour_name": "Sand Dollar"
+            }
+        ]
+    },
+    {
+        "id": 1009,
+        "brand": "c'est moi",
+        "name": "Reflect Lip Gloss",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/04/cest-moi-reflect-lip-gloss-1.png",
+        "product_link": "https://www.purpicks.com/product/reflect-lip-gloss/",
+        "website_link": "https://purpicks.com/",
+        "description": "These essential lip gloss shades are enriched with a blend of natural and organic oils to deliver the perfect amount of sheer color and shine to lips. Enriched with a blend of natural and organic oils, this essential gloss delivers a wash of sheer color and promises shine—not stickiness. Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol Dermatologist Tested Clinically Tested on Sensitive Skin, Hypoallergenic, Made with Natural & Organic Ingredients",
+        "rating": null,
+        "category": "lip_gloss",
+        "product_type": "lipstick",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:30.116Z",
+        "updated_at": "2018-09-02T22:52:06.562Z",
+        "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/1009.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/009/original/open-uri20180630-4-xznfso?1530390363",
+        "product_colors": [
+            {
+                "hex_value": "#DF585A",
+                "colour_name": "Rise"
+            },
+            {
+                "hex_value": "#E4CFCE",
+                "colour_name": "Opulence"
+            },
+            {
+                "hex_value": "#D6474B",
+                "colour_name": "Bliss"
+            }
+        ]
+    },
+    {
+        "id": 1008,
+        "brand": "c'est moi",
+        "name": "Muse Mascara",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/04/cest-moi-muse-mascara.png",
+        "product_link": "https://www.purpicks.com/product/muse-mascara/",
+        "website_link": "https://purpicks.com/",
+        "description": "Define, lengthen and nourish lashes with organic shea butter, grapeseed and jojoba oils. Lashes are coated gently and evenly without clumping, transferring or flaking. Long, lush lashes begin with this luxe mascara that is formulated with organic shea butter and oils of grape and jojoba seed to help nourish and condition as it lengthens and defines. Velvety and smooth, it coats lashes gently and evenly without clumping, transferring, or flaking. Made for Young Delicate Skin Types. NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol",
+        "rating": null,
+        "category": "",
+        "product_type": "mascara",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:30.056Z",
+        "updated_at": "2018-09-02T22:52:06.553Z",
+        "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/1008.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/008/original/open-uri20180630-4-bk6ign?1530390362",
+        "product_colors": [
+            {
+                "hex_value": "#000000",
+                "colour_name": "Black"
+            }
+        ]
+    },
+    {
+        "id": 1007,
+        "brand": "c'est moi",
+        "name": "Luminary Lip Crayon",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/04/cest-moi-luminary-lip-crayon.png",
+        "product_link": "https://www.purpicks.com/product/luminary-lip-crayon/",
+        "website_link": "https://purpicks.com/",
+        "description": "These nourishing and creamy lip crayons come in 6 perfectly pigmented shades that go from subtle to statement. This easy-to-use lip crayon delivers velvety application and perfectly pigmented color, plus a nourishing formula with a creamy, consistent texture designed to make your lips appear soft and smooth. Apply sparingly for a subtle look, or generously to make a statement—either way, your lips will feel as beautiful as they look! Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol Dermatologist Tested Clinically Tested On Sensitive Skin Hypoallergenic",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "lip_liner",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:29.975Z",
+        "updated_at": "2018-09-02T22:52:06.545Z",
+        "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/1007.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/007/original/open-uri20180630-4-1m2hvd7?1530390361",
+        "product_colors": [
+            {
+                "hex_value": "#B89093",
+                "colour_name": "Fresh"
+            },
+            {
+                "hex_value": "#CB7579",
+                "colour_name": "True"
+            },
+            {
+                "hex_value": "#EB5D92",
+                "colour_name": "Fierce"
+            },
+            {
+                "hex_value": "#E74857",
+                "colour_name": "Vivid"
+            },
+            {
+                "hex_value": "#CC5257",
+                "colour_name": "Brave"
+            },
+            {
+                "hex_value": "#65373E",
+                "colour_name": "Courage"
+            }
+        ]
+    },
+    {
+        "id": 1006,
+        "brand": "c'est moi",
+        "name": "Fearless Eyeliner",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/04/cest-moi-fearless-eyeliner-pencil.png",
+        "product_link": "https://www.purpicks.com/product/fearless-eyeliner/",
+        "website_link": "https://purpicks.com/",
+        "description": "Make eyes pop with this velvety smooth eyeliner that glides on effortlessly and precisely. Make your eyes pop with this sleek, easy-to-use eyeliner. Formulated with both jojoba seed oil and shea butter, its velvety smooth formula glides on effortlessly and precisely. To sharpen, place inside sharpener and turn the pencil gently to create a working tip. Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol  Dermatologist Tested Clinically Tested on Sensitive Skin Hypoallergenic Made with Natural Ingredients",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:29.910Z",
+        "updated_at": "2018-09-02T22:52:06.537Z",
+        "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/1006.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/006/original/open-uri20180630-4-u4c1jh?1530390360",
+        "product_colors": [
+            {
+                "hex_value": "#B8A89A",
+                "colour_name": "Fearless"
+            }
+        ]
+    }
+]
