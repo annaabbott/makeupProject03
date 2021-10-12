@@ -4,7 +4,7 @@ import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
 
 import headerImg from "../images/headerImg.jpg";
-import CartButton from "./Cart/CartButton";
+// import CartButton from "./Cart/CartButton";
 import FavoritesButton from "./FavoritesButton";
 
 function Header() {

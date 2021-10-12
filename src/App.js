@@ -11,12 +11,7 @@ function App(props) {
   return (
     <div>
       <Header />
-      <ProductContainer productList={productList} />
-      {/* <div>Why do birds fly south for the winter?</div>
-      { visible && <div>Because it's too far to walk.</div> }
-      <Button onClick={() => setVisible(!visible)}>
-        {visible? "Hide Answer" : "Show Answer"}
-      </Button> */}
+      <ProductContainer />
     </div>
   );
 }
