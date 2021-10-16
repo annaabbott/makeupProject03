@@ -7,7 +7,7 @@ import headerImg from "../images/headerImg.jpg";
 // import CartButton from "./Cart/CartButton";
 import FavoritesButton from "./FavoritesButton";
 
-function Header() {
+function Header(props) {
   return (
     <React.Fragment>
       <CssBaseline />
@@ -17,7 +17,7 @@ function Header() {
         {/* Photo by Siora Photography on Unsplash */}
         <h1>React Drug Store Cosmetics</h1>
         {/* for buttons (below) in MUI use button group */}
-        <FavoritesButton />
+        <FavoritesButton onClick={props.onSetVisible}/>
         {/* <CartButton /> */}
       </Container>
     </React.Fragment>
