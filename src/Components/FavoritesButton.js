@@ -1,15 +1,26 @@
+import { useContext } from "react";
+import CartContext from "../../src/CartContext";
 import Button from "@mui/material/Button";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import Stack from "@mui/material/Stack";
 
 const FavoritesButton = (props) => {
+  const cartCtx = useContext(CartContext);
+  const cartItemsTotal = cartCtx.items.reduce((currentNum, item) => {
+    return currentNum + item.amount;
+  }, 0);
+
   return (
     <Stack direction="row" spacing={2}>
       <Button variant="contained" startIcon={<FavoriteIcon />}>
         My Favorites
-      </Button >
-      <Button variant="contained" startIcon={<ShoppingCartIcon />} onClick={props.onClick}>
+      </Button>
+      <Button
+        variant="contained"
+        startIcon={<ShoppingCartIcon />}
+        onClick={props.onClick}
+      >
         My Cart
         <span
           style={{
@@ -23,7 +34,7 @@ const FavoritesButton = (props) => {
             borderRadius: "16px",
           }}
         >
-          #
+          {cartItemsTotal}
         </span>
       </Button>
     </Stack>
