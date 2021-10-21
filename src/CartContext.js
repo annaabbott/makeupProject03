@@ -9,7 +9,7 @@ const cartReducer = (state, action) => {
 };
 
 export function CartProvider(props) {
-    const [initialState, dispatchCartAction] = useReducer(cartReducer, initialState);
+    const [state, dispatchCartAction] = useReducer(cartReducer, initialState); // eslint-disable-line
     const items= [];
     const totalAmount= 0;
    
